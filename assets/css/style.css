@@ -39,7 +39,7 @@ nav {
     align-items: center;
     overflow: hidden;
     h1{
-        max-width: 1340px;
+        max-width: 1205px;
         color:#262626;
         font-size: 170px;
         font-weight: 400;
@@ -506,7 +506,7 @@ nav {
     }
     .hero{
         h1{
-            max-width: 1265px;
+            max-width: 900px;
             max-height: 252px;
             font-size: 100px;
             line-height: 100px;
@@ -541,7 +541,7 @@ nav {
         }
     }
 }
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 992px) {
     nav {
         padding: 0 20px;
     }
